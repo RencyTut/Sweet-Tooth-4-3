@@ -211,13 +211,13 @@
 
 		.magic {
 			width: 100%;
-			padding 100px 0px;
+			padding: 100px 0px;
 			background-color: #191919;
 		}
 
 		.magic img {
 			height: auto;
-			width: 500px;
+			width: 800px;
 			padding: 100px 0px;
 		}
 		
