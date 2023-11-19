@@ -208,6 +208,18 @@
 			width: 430px;
 			padding: 100px 0px;
 		}
+
+		.face {
+			width: 100%;
+			padding 100px 0px;
+			background-color: #191919;
+		}
+
+		.face img {
+			height: auto;
+			width: 430px;
+			padding: 100px 0px;
+		}
 		
 		.about-text {
 			margin-top: 50px;
